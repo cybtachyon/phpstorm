@@ -1,0 +1,54 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51e88885-7d3d-4172-84e2-4fa73faa97f2" name="modsocket.mcdev" url="http://modsocket.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9b24c784-f056-473c-ac0d-dbe9261abc4d" name="cowboys.mcdev" url="http://cowboys.mcdev/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="54d3715e-a1f1-48a8-b86d-837b1728e718" name="lexisnexis.mcdev" url="http://lexisnexis.mcdev/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2fc88592-0422-463d-9e7e-56d79fd82068" name="fsisac.mcdev" url="http://fsisac.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="48fc45eb-3b00-4493-9375-661030e51432" name="fh-events.mcdev" url="http://fh-events.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8bbac199-d08a-452f-be00-aec57562ec10" name="benefitfocus.mcdev" url="http://benefitfocus.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9eca5adc-b28a-43bf-ad3f-0957ba1c8942" name="chargers.mcdev" url="http://chargers.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f97fb203-6f0a-4e0e-a268-588e4feb7bf5" name="travelport.mcdev" url="http://travelport.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="436a5abb-6300-4e2f-af1c-263b8d57ff25" name="nysenate.mcdev" url="http://nysenate.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f8e6d187-2bb5-42ac-8cc0-4d881f222ad7" name="manh.mcdev" url="http://manh.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f689c0f3-1568-4311-bbff-0a85afcfeebe" name="mercy.mcdev" url="http://mercy.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3a5e7b1c-1312-439f-a70e-f2c4902c3bfd" name="creationhealth.mcdev" url="http://creationhealth.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5319c411-550f-4701-bb73-76cb530f6e31" name="mercy.mcdev/alumni" url="http://mercy.mcdev/alumni">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="07a6c413-c75b-45dc-bf09-a7003a1baaaa" name="decoupled.dev" url="http://decoupled.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5ec7823e-e694-4016-b376-de42a3fa99ba" name="visittheusa.mcdev" url="http://visittheusa.mcdev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
