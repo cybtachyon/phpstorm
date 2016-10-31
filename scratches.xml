@@ -1,20 +1,5 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" value="Markdown" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.twig" value="Twig" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" value="yaml" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" value="Markdown" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.twig" value="Twig" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" value="Markdown" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.twig" value="Twig" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" value="Markdown" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html" value="HTML" />
   </component>
 </application>
