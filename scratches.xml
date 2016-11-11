@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="Angular2HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" value="Markdown" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.twig" value="Twig" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.twig" value="Twig" />
