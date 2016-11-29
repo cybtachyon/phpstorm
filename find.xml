@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../veri_verifone/web/themes/custom/verifone_theme/src/components/paybook-magazine-volumes/paybook-magazine-volumes.js - [veri_verifone]'" />
-    <option name="defaultScopeName" value="File '.../veri_verifone/web/themes/custom/verifone_theme/src/components/paybook-magazine-volumes/paybook-magazine-volumes.js - [veri_verifone]'" />
-    <option name="SEARCH_SCOPE" value="File '.../veri_verifone/web/themes/custom/verifone_theme/src/components/paybook-magazine-volumes/paybook-magazine-volumes.js - [veri_verifone]'" />
+    <option name="customScope" value="Drupal" />
+    <option name="defaultScopeName" value="Drupal" />
+    <option name="SEARCH_SCOPE" value="Drupal" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
