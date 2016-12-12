@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
     <option name="defaultScopeName" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
     <option name="SEARCH_SCOPE" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
+    <option name="FILE_MASK" value="*routing.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +20,7 @@
       <mask>*.css</mask>
       <mask>*.pot</mask>
       <mask>*.pdf</mask>
+      <mask>*routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
