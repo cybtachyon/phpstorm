@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
     <option name="defaultScopeName" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../veri_verifone/web/modules/custom/verifone_demo/includes/demo_category.inc - [veri_verifone]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
