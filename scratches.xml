@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" value="Markdown" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.twig" value="Twig" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" value="Markdown" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.twig" value="Twig" />
