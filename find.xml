@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../veri_verifone/web/modules/custom/verifone_system/src/Plugin/Block/ArticlesIntroBlock.php - [veri_verifone]'" />
-    <option name="defaultScopeName" value="File '.../veri_verifone/web/modules/custom/verifone_system/src/Plugin/Block/ArticlesIntroBlock.php - [veri_verifone]'" />
-    <option name="SEARCH_SCOPE" value="File '.../veri_verifone/web/modules/custom/verifone_system/src/Plugin/Block/ArticlesIntroBlock.php - [veri_verifone]'" />
+    <option name="customScope" value="File '.../veri_verifone/web/modules/custom/verifone_navigation/src/Plugin/Block/HeaderBlock.php - [veri_verifone]'" />
+    <option name="defaultScopeName" value="File '.../veri_verifone/web/modules/custom/verifone_navigation/src/Plugin/Block/HeaderBlock.php - [veri_verifone]'" />
+    <option name="SEARCH_SCOPE" value="File '.../veri_verifone/web/modules/custom/verifone_navigation/src/Plugin/Block/HeaderBlock.php - [veri_verifone]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
